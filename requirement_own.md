@@ -49,7 +49,7 @@ Description ระบบติดตามงานและโปรเจค �
 └── README.md
 ```
 
-note in package.json
+note in package.json [เหลือ sumStudentId]
 
 ```
 {

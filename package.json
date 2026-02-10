@@ -7,15 +7,15 @@
   "license": "MIT",
   "contributors": [
     {
-      "fullname": "John Doe",
-      "username": "username1",
-      "studentId": "12345678"
+      "fullname": "Kuljira Namjai",
+      "username": "bluemzzn",
+      "studentId": "68011621"
     }
   ],
   "project": {
     "model": {
-      "id": null,
-      "name": null
+      "id": 4,
+      "name": "Task & Project Tracking"
     },
     "sumStudentId": null
   },
