@@ -5,13 +5,20 @@
   "author": "",
   "private": true,
   "license": "MIT",
-  "contributors": [
+  "contributors 1": [
     {
       "fullname": "Kuljira Namjai",
       "username": "bluemzzn",
       "studentId": "68011621"
     }
   ],
+  "contributors 2": [
+  {
+    "fullname": "Patsaraporn Phadungsil",
+    "username": "patsaporn-phadungsil",
+    "studentId": "68010852"
+  }
+],
   "project": {
     "model": {
       "id": 4,
